@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[Website][Website] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;: [Twitter][Twitter] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;: [Blog][Blog]
+&nbsp;&nbsp;&nbsp;:link: [Website][Website] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:art: [Blog][Blog]
 
 </div>
 
