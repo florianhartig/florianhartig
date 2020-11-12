@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Hi there :wave:&nbsp;
+</h1>
+
+<div align="center">
+
+[Website][Website]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:art: [Blog][Blog]
+
+</div>
 
 <!--
-**florianhartig/florianhartig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Quick Link
 -->
+
+[Twitter]:https://twitter.com/florianhartig
+[Website]:https://www.uni-regensburg.de/biologie-vorklinische-medizin/theoretische-oekologie/mitarbeiter/hartig/
+[Blog]:https://theoreticalecology.wordpress.com/
+
+I'm a professor for theoretical ecology at the University of Regensburg. My research concentrates on theory, simulation models and statistical methods in ecology, evolution and conservation.
