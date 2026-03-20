@@ -13,7 +13,7 @@ Quick Link
 -->
 
 [Twitter]:https://twitter.com/florianhartig
-[Website]:https://www.uni-regensburg.de/biologie-vorklinische-medizin/theoretische-oekologie/mitarbeiter/hartig/
+[Website]:https://go.ur.de/ag-hartig
 [Blog]:https://theoreticalecology.wordpress.com/
 [Scholar]:https://scholar.google.com/citations?user=AdcDit0AAAAJ&hl=en
 
